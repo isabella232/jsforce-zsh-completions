@@ -27,3 +27,7 @@ $ jsforce --connection admin@a
 admin@aaa.example.com                          admin@abb.example.org
 admin@abc.example.net                          admin@abcd.example.org
 ```
+
+## Requirement
+
+Addition to the installation process above, you need to install [jq](https://stedolan.github.io/jq/) to get connection completion feature to work.
