@@ -1,6 +1,6 @@
 # JSforce Zsh Completion functions
 
-Completion functions in [Zsh]() for [JSforce](https://jsforce.github.io) CLI and its [metadata tools](https://github.com/jsforce/jsforce-metadata-tools).
+Completion functions in [Zsh](http://www.zsh.org) for [JSforce](https://jsforce.github.io) CLI and its [metadata tools](https://github.com/jsforce/jsforce-metadata-tools).
 
 ## Installation
 
