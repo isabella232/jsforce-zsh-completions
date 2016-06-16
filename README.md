@@ -19,7 +19,7 @@ Completion functions in [Zsh](http://www.zsh.org) for [JSforce](https://jsforce.
 ## Feature
 
 - Complete all options available in CLI
-- For `--c, --connection` option argument, complete candidates from registered connections established in former OAuth2 authorization flow, reading JSforce config file (`.jsforce/config.json`).
+- For `--c, --connection` option argument, complete candidates from registered connections established in former OAuth2 authorization flow, reading JSforce config file (`~/.jsforce/config.json`).
 
 ```
 $ jsforce --connection admin@a
